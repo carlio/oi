@@ -1,0 +1,9 @@
+ipython
+readline
+nose
+django-devserver
+guppy
+werkzeug
+line_profiler
+django_debug_toolbar
+sqlparse
